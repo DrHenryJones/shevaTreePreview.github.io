@@ -1,0 +1,81 @@
+/* d3-context-menu styles */
+
+
+body {
+  margin: 0.5vh;
+  max-height:100%;
+  max-width:100%;
+  text-align: center;
+}
+
+.d3-context-menu {
+	position: absolute;
+	display: none;
+	background-color: #f2f2f2;
+	border-radius: 4px;
+
+	font-family: Arial, sans-serif;
+	font-size: 14px;
+	min-width: 150px;
+	border: 1px solid #d4d4d4;
+
+	z-index:1200;
+}
+
+.d3-context-menu ul {
+	list-style-type: none;
+	margin: 4px 0px;
+	padding: 0px;
+	cursor: default;
+}
+
+.d3-context-menu ul li {
+	padding: 4px 16px;
+}
+
+.d3-context-menu ul li:hover {
+	background-color: #4677f8;
+	color: #fefefe;
+}
+
+/* chart styles */
+
+
+.node {
+  cursor: pointer;
+}
+
+.node circle {
+	fill: #fff;
+	stroke: #999;
+	stroke-width: 1.5px;
+}
+
+.node text {
+  font: 14px sans-serif;
+}
+
+path.link {
+  fill: none;
+  stroke: #d7d7d7;
+  stroke-width: 1.5px;
+}
+
+path.linkSelected {
+	fill: none;
+	stroke: lightsteelblue;
+	stroke-width: 1.5px;
+  }
+
+.link text {
+    font: 14px sans-serif;
+    fill: steelblue;
+}
+
+.tooltip {
+	padding: 4px;
+	position: absolute;
+	pointer-events: none;
+	background: #000;
+	color: #fff;
+  }

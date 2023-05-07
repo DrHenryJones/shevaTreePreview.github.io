@@ -1,0 +1,580 @@
+{
+  "name": "MovieLens",
+  "children": [
+    {
+      "name": "80's",
+      "children": [
+        {
+          "name": "F",
+          "children": [],
+          "hypothesis": null,
+          "count": null,
+          "stats": null
+        },
+        {
+          "name": "M",
+          "children": [],
+          "hypothesis": null,
+          "count": null,
+          "stats": null
+        }
+      ],
+      "hypothesis": "H1",
+      "count": "5923 users, 590 movies",
+      "stats": "FDR: 0 | Power: 1 | Coverage: 1"
+    },
+    {
+      "name": "Executive-managerial",
+      "children": [
+        {
+          "name": "Long",
+          "children": [
+            {
+              "name": "45-49",
+              "children": [],
+              "hypothesis": null,
+              "count": null,
+              "stats": null
+            },
+            {
+              "name": "35-44",
+              "children": [],
+              "hypothesis": null,
+              "count": null,
+              "stats": null
+            }
+          ],
+          "hypothesis": "H3",
+          "count": "679 users, 3228 movies",
+          "stats": "FDR: 0 | Power: 1 | Coverage: 1"
+        }
+      ],
+      "hypothesis": "H2",
+      "count": "679 users, 3245 movies",
+      "stats": "FDR: 0 | Power: 1 | Coverage: 1"
+    },
+    {
+      "name": "M",
+      "children": [
+        {
+          "name": "Drama",
+          "children": [
+            {
+              "name": "Academic-educator",
+              "children": [
+                {
+                  "name": "35-44",
+                  "children": [],
+                  "hypothesis": null,
+                  "count": null,
+                  "stats": null
+                },
+                {
+                  "name": "45-49",
+                  "children": [],
+                  "hypothesis": null,
+                  "count": null,
+                  "stats": null
+                }
+              ],
+              "hypothesis": "H6",
+              "count": "319 users, 1183 movies",
+              "stats": "FDR: 0 | Power: 1 | Coverage: 1"
+            },
+            {
+              "name": "Scientist",
+              "children": [],
+              "hypothesis": null,
+              "count": null,
+              "stats": null
+            },
+            {
+              "name": "Programmer",
+              "children": [],
+              "hypothesis": null,
+              "count": null,
+              "stats": null
+            },
+            {
+              "name": "Doctor-health care",
+              "children": [],
+              "hypothesis": null,
+              "count": null,
+              "stats": null
+            }
+          ],
+          "hypothesis": "H5",
+          "count": "4329 users, 1460 movies",
+          "stats": "FDR: 0 | Power: 1 | Coverage: 0.4091"
+        },
+        {
+          "name": "Action",
+          "children": [],
+          "hypothesis": null,
+          "count": null,
+          "stats": null
+        },
+        {
+          "name": "Thriller",
+          "children": [],
+          "hypothesis": null,
+          "count": null,
+          "stats": null
+        },
+        {
+          "name": "Sci-Fi",
+          "children": [],
+          "hypothesis": null,
+          "count": null,
+          "stats": null
+        }
+      ],
+      "hypothesis": "H4",
+      "count": "4331 users, 3632 movies",
+      "stats": "FDR: 0 | Power: 1 | Coverage: 1"
+    },
+    {
+      "name": "90's",
+      "children": [
+        {
+          "name": "Comedy",
+          "children": [
+            {
+              "name": "Technician-engineer",
+              "children": [],
+              "hypothesis": null,
+              "count": null,
+              "stats": null
+            },
+            {
+              "name": "Doctor-health care",
+              "children": [],
+              "hypothesis": null,
+              "count": null,
+              "stats": null
+            },
+            {
+              "name": "Other",
+              "children": [],
+              "hypothesis": null,
+              "count": null,
+              "stats": null
+            },
+            {
+              "name": "College-grad student",
+              "children": [],
+              "hypothesis": null,
+              "count": null,
+              "stats": null
+            }
+          ],
+          "hypothesis": "H8",
+          "count": "5907 users, 705 movies",
+          "stats": "FDR: 0 | Power: 1 | Coverage: 0.3824"
+        },
+        {
+          "name": "Action",
+          "children": [],
+          "hypothesis": null,
+          "count": null,
+          "stats": null
+        },
+        {
+          "name": "Adventure",
+          "children": [],
+          "hypothesis": null,
+          "count": null,
+          "stats": null
+        },
+        {
+          "name": "Thriller",
+          "children": [],
+          "hypothesis": null,
+          "count": null,
+          "stats": null
+        }
+      ],
+      "hypothesis": "H7",
+      "count": "6037 users, 2126 movies",
+      "stats": "FDR: 0 | Power: 1 | Coverage: 1"
+    },
+    {
+      "name": "Programmer",
+      "children": [
+        {
+          "name": "Comedy",
+          "children": [],
+          "hypothesis": null,
+          "count": null,
+          "stats": null
+        },
+        {
+          "name": "Sci-Fi",
+          "children": [],
+          "hypothesis": null,
+          "count": null,
+          "stats": null
+        },
+        {
+          "name": "Children's",
+          "children": [],
+          "hypothesis": null,
+          "count": null,
+          "stats": null
+        },
+        {
+          "name": "Romance",
+          "children": [],
+          "hypothesis": null,
+          "count": null,
+          "stats": null
+        }
+      ],
+      "hypothesis": "H9",
+      "count": "388 users, 2896 movies",
+      "stats": "FDR: 0 | Power: 1 | Coverage: 1"
+    },
+    {
+      "name": "35-44",
+      "children": [
+        {
+          "name": "Action",
+          "children": [],
+          "hypothesis": null,
+          "count": null,
+          "stats": null
+        },
+        {
+          "name": "Sci-Fi",
+          "children": [],
+          "hypothesis": null,
+          "count": null,
+          "stats": null
+        },
+        {
+          "name": "Drama",
+          "children": [],
+          "hypothesis": null,
+          "count": null,
+          "stats": null
+        },
+        {
+          "name": "Thriller",
+          "children": [],
+          "hypothesis": null,
+          "count": null,
+          "stats": null
+        }
+      ],
+      "hypothesis": "H10",
+      "count": "1193 users, 3419 movies",
+      "stats": "FDR: 0 | Power: 1 | Coverage: 1"
+    },
+    {
+      "name": "F",
+      "children": [
+        {
+          "name": "Academic-educator",
+          "children": [
+            {
+              "name": "Drama",
+              "children": [
+                {
+                  "name": "Long",
+                  "children": [],
+                  "hypothesis": null,
+                  "count": null,
+                  "stats": null
+                }
+              ],
+              "hypothesis": "H13",
+              "count": "209 users, 1128 movies",
+              "stats": "FDR: 0 | Power: 1 | Coverage: 1"
+            },
+            {
+              "name": "Romance",
+              "children": [],
+              "hypothesis": null,
+              "count": null,
+              "stats": null
+            },
+            {
+              "name": "Thriller",
+              "children": [],
+              "hypothesis": null,
+              "count": null,
+              "stats": null
+            },
+            {
+              "name": "Crime",
+              "children": [],
+              "hypothesis": null,
+              "count": null,
+              "stats": null
+            }
+          ],
+          "hypothesis": "H12",
+          "count": "209 users, 2814 movies",
+          "stats": "FDR: 0 | Power: 1 | Coverage: 1"
+        },
+        {
+          "name": "Other",
+          "children": [],
+          "hypothesis": null,
+          "count": null,
+          "stats": null
+        },
+        {
+          "name": "Executive-managerial",
+          "children": [],
+          "hypothesis": null,
+          "count": null,
+          "stats": null
+        },
+        {
+          "name": "Homemaker",
+          "children": [],
+          "hypothesis": null,
+          "count": null,
+          "stats": null
+        }
+      ],
+      "hypothesis": "H11",
+      "count": "1709 users, 3449 movies",
+      "stats": "FDR: 0 | Power: 1 | Coverage: 0.7692"
+    },
+    {
+      "name": "Short",
+      "children": [
+        {
+          "name": "Animation",
+          "children": [],
+          "hypothesis": null,
+          "count": null,
+          "stats": null
+        },
+        {
+          "name": "Comedy",
+          "children": [],
+          "hypothesis": null,
+          "count": null,
+          "stats": null
+        }
+      ],
+      "hypothesis": "H14",
+      "count": "1610 users, 19 movies",
+      "stats": "FDR: 0 | Power: 1 | Coverage: 0.6667"
+    },
+    {
+      "name": "Homemaker",
+      "children": [
+        {
+          "name": "Comedy",
+          "children": [
+            {
+              "name": "F",
+              "children": [
+                {
+                  "name": "25-34",
+                  "children": [
+                    {
+                      "name": "Long",
+                      "children": [
+                        {
+                          "name": "90's",
+                          "children": [],
+                          "hypothesis": null,
+                          "count": null,
+                          "stats": null
+                        },
+                        {
+                          "name": "80's",
+                          "children": [],
+                          "hypothesis": null,
+                          "count": null,
+                          "stats": null
+                        }
+                      ],
+                      "hypothesis": "H19",
+                      "count": "28 users, 529 movies",
+                      "stats": "FDR: 0 | Power: 1 | Coverage: 1"
+                    }
+                  ],
+                  "hypothesis": "H18",
+                  "count": "28 users, 534 movies",
+                  "stats": "FDR: 0 | Power: 1 | Coverage: 1"
+                }
+              ],
+              "hypothesis": "H17",
+              "count": "89 users, 799 movies",
+              "stats": "FDR: 0 | Power: 1 | Coverage: 1"
+            }
+          ],
+          "hypothesis": "H16",
+          "count": "92 users, 818 movies",
+          "stats": "FDR: 0 | Power: 1 | Coverage: 1"
+        },
+        {
+          "name": "Romance",
+          "children": [],
+          "hypothesis": null,
+          "count": null,
+          "stats": null
+        },
+        {
+          "name": "Animation",
+          "children": [],
+          "hypothesis": null,
+          "count": null,
+          "stats": null
+        },
+        {
+          "name": "Children's",
+          "children": [],
+          "hypothesis": null,
+          "count": null,
+          "stats": null
+        }
+      ],
+      "hypothesis": "H15",
+      "count": "92 users, 2184 movies",
+      "stats": "FDR: 0 | Power: 1 | Coverage: 1"
+    },
+    {
+      "name": "40's",
+      "children": [
+        {
+          "name": "Long",
+          "children": [],
+          "hypothesis": null,
+          "count": null,
+          "stats": null
+        }
+      ],
+      "hypothesis": "H20",
+      "count": "3562 users, 119 movies",
+      "stats": "FDR: 0 | Power: 1 | Coverage: 1"
+    },
+    {
+      "name": "Fantasy",
+      "children": [
+        {
+          "name": "M",
+          "children": [],
+          "hypothesis": null,
+          "count": null,
+          "stats": null
+        },
+        {
+          "name": "F",
+          "children": [],
+          "hypothesis": null,
+          "count": null,
+          "stats": null
+        }
+      ],
+      "hypothesis": "H21",
+      "count": "4850 users, 68 movies",
+      "stats": "FDR: 0 | Power: 1 | Coverage: 1"
+    },
+    {
+      "name": "Scientist",
+      "children": [
+        {
+          "name": "Drama",
+          "children": [
+            {
+              "name": "Long",
+              "children": [
+                {
+                  "name": "25-34",
+                  "children": [
+                    {
+                      "name": "F",
+                      "children": [
+                        {
+                          "name": "80's",
+                          "children": [],
+                          "hypothesis": "H27",
+                          "count": "14 users, 110 movies",
+                          "stats": "FDR: 0 | Power: 0 | Coverage: 0"
+                        },
+                        {
+                          "name": "70's",
+                          "children": [],
+                          "hypothesis": null,
+                          "count": null,
+                          "stats": null
+                        },
+                        {
+                          "name": "90's",
+                          "children": [],
+                          "hypothesis": null,
+                          "count": null,
+                          "stats": null
+                        },
+                        {
+                          "name": "50's",
+                          "children": [],
+                          "hypothesis": null,
+                          "count": null,
+                          "stats": null
+                        }
+                      ],
+                      "hypothesis": "H26",
+                      "count": "15 users, 518 movies",
+                      "stats": "FDR: 0 | Power: 1 | Coverage: 1"
+                    }
+                  ],
+                  "hypothesis": "H25",
+                  "count": "73 users, 850 movies",
+                  "stats": "FDR: 0 | Power: 1 | Coverage: 1"
+                },
+                {
+                  "name": "35-44",
+                  "children": [],
+                  "hypothesis": null,
+                  "count": null,
+                  "stats": null
+                }
+              ],
+              "hypothesis": "H24",
+              "count": "144 users, 987 movies",
+              "stats": "FDR: 0 | Power: 1 | Coverage: 1"
+            }
+          ],
+          "hypothesis": "H23",
+          "count": "144 users, 988 movies",
+          "stats": "FDR: 0 | Power: 1 | Coverage: 1"
+        },
+        {
+          "name": "Comedy",
+          "children": [],
+          "hypothesis": null,
+          "count": null,
+          "stats": null
+        },
+        {
+          "name": "Action",
+          "children": [],
+          "hypothesis": null,
+          "count": null,
+          "stats": null
+        },
+        {
+          "name": "Romance",
+          "children": [],
+          "hypothesis": null,
+          "count": null,
+          "stats": null
+        }
+      ],
+      "hypothesis": "H22",
+      "count": "144 users, 2501 movies",
+      "stats": "FDR: 0 | Power: 1 | Coverage: 1"
+    }
+  ],
+  "hypothesis": null,
+  "count": null,
+  "stats": null
+}
