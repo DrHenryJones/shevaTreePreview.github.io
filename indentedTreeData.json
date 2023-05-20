@@ -1,0 +1,2329 @@
+{
+  "key": "MovieLens (6040 users, 3952 movies)",
+  "children": [
+    {
+      "key": "Users that work as Scientist (144 users, 2501 movies)",
+      "children": [
+        {
+          "key": "Horror movies (127 users, 198 movies)",
+          "children": [
+            {
+              "key": "Users that work as 25-34 (65 users, 180 movies)",
+              "children": [
+                {
+                  "key": "Female users (13 users, 92 movies)",
+                  "children": [
+                    {
+                      "key": "Movies of Long duration (13 users, 92 movies)",
+                      "children": [
+                        {
+                          "key": "Movies released in the 90's (28 users, 60 movies)",
+                          "children": [],
+                          "hypothesis": null,
+                          "users": "28",
+                          "movies": "60",
+                          "stats": null,
+                          "fdr": null,
+                          "power": null,
+                          "coverage": null
+                        },
+                        {
+                          "key": "Movies released in the 70's (7 users, 14 movies)",
+                          "children": [],
+                          "hypothesis": null,
+                          "users": "7",
+                          "movies": "14",
+                          "stats": null,
+                          "fdr": null,
+                          "power": null,
+                          "coverage": null
+                        },
+                        {
+                          "key": "Movies released in the 80's (22 users, 48 movies)",
+                          "children": [],
+                          "hypothesis": null,
+                          "users": "22",
+                          "movies": "48",
+                          "stats": null,
+                          "fdr": null,
+                          "power": null,
+                          "coverage": null
+                        }
+                      ],
+                      "hypothesis": "R ≁ U",
+                      "users": 13,
+                      "movies": 92,
+                      "stats": "FDR: 0 | Power: 1 | Coverage: 1",
+                      "fdr": 0,
+                      "power": 1,
+                      "coverage": 1
+                    }
+                  ],
+                  "hypothesis": "R ≁ U",
+                  "users": 13,
+                  "movies": 92,
+                  "stats": "FDR: 0 | Power: 1 | Coverage: 1",
+                  "fdr": 0,
+                  "power": 1,
+                  "coverage": 1
+                }
+              ],
+              "hypothesis": "R ≁ U",
+              "users": 65,
+              "movies": 180,
+              "stats": "FDR: 0 | Power: 1 | Coverage: 1",
+              "fdr": 0,
+              "power": 1,
+              "coverage": 1
+            },
+            {
+              "key": "Users that work as 35-44 (18 users, 41 movies)",
+              "children": [],
+              "hypothesis": null,
+              "users": "18",
+              "movies": "41",
+              "stats": null,
+              "fdr": null,
+              "power": null,
+              "coverage": null
+            }
+          ],
+          "hypothesis": "σ² > 2.5",
+          "users": 127,
+          "movies": 198,
+          "stats": "FDR: 0 | Power: 1 | Coverage: 1",
+          "fdr": 0,
+          "power": 1,
+          "coverage": 1
+        },
+        {
+          "key": "Film-Noir movies (18 users, 47 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "18",
+          "movies": "47",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "War movies (57 users, 164 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "57",
+          "movies": "164",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Comedy movies (305 users, 628 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "305",
+          "movies": "628",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        }
+      ],
+      "hypothesis": "R ≁ U",
+      "users": 144,
+      "movies": 2501,
+      "stats": "FDR: 0 | Power: 1 | Coverage: 1",
+      "fdr": 0,
+      "power": 1,
+      "coverage": 1
+    },
+    {
+      "key": "Movies released in the 50's (4178 users, 162 movies)",
+      "children": [
+        {
+          "key": "Action movies (2051 users, 10 movies)",
+          "children": [
+            {
+              "key": "Users that work as Academic-educator (195 users, 9 movies)",
+              "children": [
+                {
+                  "key": "Male users (127 users, 9 movies)",
+                  "children": [],
+                  "hypothesis": "μ > 2.5",
+                  "users": 127,
+                  "movies": 9,
+                  "stats": "FDR: 0 | Power: 0 | Coverage: 0",
+                  "fdr": 0,
+                  "power": 0,
+                  "coverage": 0
+                }
+              ],
+              "hypothesis": "R ≁ U",
+              "users": 195,
+              "movies": 9,
+              "stats": "FDR: 0 | Power: 1 | Coverage: 1",
+              "fdr": 0,
+              "power": 1,
+              "coverage": 1
+            },
+            {
+              "key": "Users that work as Scientist (6 users, 17 movies)",
+              "children": [],
+              "hypothesis": null,
+              "users": "6",
+              "movies": "17",
+              "stats": null,
+              "fdr": null,
+              "power": null,
+              "coverage": null
+            }
+          ],
+          "hypothesis": "R ≁ U",
+          "users": 2051,
+          "movies": 10,
+          "stats": "FDR: 0 | Power: 1 | Coverage: 0.2941",
+          "fdr": 0,
+          "power": 1,
+          "coverage": 0.2941
+        },
+        {
+          "key": "Sci-Fi movies (34 users, 95 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "34",
+          "movies": "95",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Crime movies (13 users, 31 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "13",
+          "movies": "31",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Fantasy movies (11 users, 42 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "11",
+          "movies": "42",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        }
+      ],
+      "hypothesis": "R ≁ U",
+      "users": 4178,
+      "movies": 162,
+      "stats": "FDR: 0 | Power: 1 | Coverage: 0.875",
+      "fdr": 0,
+      "power": 1,
+      "coverage": 0.875
+    },
+    {
+      "key": "Musical movies (4753 users, 112 movies)",
+      "children": [
+        {
+          "key": "Female users (125 users, 355 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "125",
+          "movies": "355",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Male users (124 users, 347 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "124",
+          "movies": "347",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        }
+      ],
+      "hypothesis": "μ > 2.5",
+      "users": 4753,
+      "movies": 112,
+      "stats": "FDR: 0 | Power: 1 | Coverage: 1",
+      "fdr": 0,
+      "power": 1,
+      "coverage": 1
+    },
+    {
+      "key": "Movies of Short duration (1610 users, 19 movies)",
+      "children": [
+        {
+          "key": "Users that work as <18 (66 users, 9 movies)",
+          "children": [
+            {
+              "key": "Users that work as Other (3 users, 7 movies)",
+              "children": [],
+              "hypothesis": null,
+              "users": "3",
+              "movies": "7",
+              "stats": null,
+              "fdr": null,
+              "power": null,
+              "coverage": null
+            }
+          ],
+          "hypothesis": "R ≁ U",
+          "users": 66,
+          "movies": 9,
+          "stats": "FDR: 0 | Power: 1 | Coverage: 1",
+          "fdr": 0,
+          "power": 1,
+          "coverage": 1
+        },
+        {
+          "key": "Users that work as 25-34 (7 users, 15 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "7",
+          "movies": "15",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        }
+      ],
+      "hypothesis": "R ≁ U",
+      "users": 1610,
+      "movies": 19,
+      "stats": "FDR: 0 | Power: 1 | Coverage: 0.5",
+      "fdr": 0,
+      "power": 1,
+      "coverage": 0.5
+    },
+    {
+      "key": "Movies released in the 20's (1035 users, 23 movies)",
+      "children": [
+        {
+          "key": "Users that work as Scientist (4 users, 7 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "4",
+          "movies": "7",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        }
+      ],
+      "hypothesis": "R ≁ U",
+      "users": 1035,
+      "movies": 23,
+      "stats": "FDR: 0 | Power: 1 | Coverage: 0.2",
+      "fdr": 0,
+      "power": 1,
+      "coverage": 0.2
+    },
+    {
+      "key": "Users that work as Writer (281 users, 3304 movies)",
+      "children": [
+        {
+          "key": "Drama movies (281 users, 1314 movies)",
+          "children": [
+            {
+              "key": "Female users (78 users, 1098 movies)",
+              "children": [
+                {
+                  "key": "Users that work as 25-34 (19 users, 862 movies)",
+                  "children": [
+                    {
+                      "key": "Movies released in the 90's (19 users, 528 movies)",
+                      "children": [
+                        {
+                          "key": "Movies of Long duration (19 users, 528 movies)",
+                          "children": [],
+                          "hypothesis": "R ≁ U",
+                          "users": 19,
+                          "movies": 528,
+                          "stats": "FDR: 0 | Power: 0 | Coverage: 0",
+                          "fdr": 0,
+                          "power": 0,
+                          "coverage": 0
+                        }
+                      ],
+                      "hypothesis": "R ≁ U",
+                      "users": 19,
+                      "movies": 528,
+                      "stats": "FDR: 0 | Power: 1 | Coverage: 1",
+                      "fdr": 0,
+                      "power": 1,
+                      "coverage": 1
+                    }
+                  ],
+                  "hypothesis": "R ≁ U",
+                  "users": 19,
+                  "movies": 862,
+                  "stats": "FDR: 0 | Power: 1 | Coverage: 1",
+                  "fdr": 0,
+                  "power": 1,
+                  "coverage": 1
+                }
+              ],
+              "hypothesis": "R ≁ U",
+              "users": 78,
+              "movies": 1098,
+              "stats": "FDR: 0 | Power: 1 | Coverage: 1",
+              "fdr": 0,
+              "power": 1,
+              "coverage": 1
+            }
+          ],
+          "hypothesis": "R ≁ U",
+          "users": 281,
+          "movies": 1314,
+          "stats": "FDR: 0 | Power: 1 | Coverage: 1",
+          "fdr": 0,
+          "power": 1,
+          "coverage": 1
+        }
+      ],
+      "hypothesis": "R ≁ U",
+      "users": 281,
+      "movies": 3304,
+      "stats": "FDR: 0 | Power: 1 | Coverage: 1",
+      "fdr": 0,
+      "power": 1,
+      "coverage": 1
+    },
+    {
+      "key": "Fantasy movies (4850 users, 68 movies)",
+      "children": [
+        {
+          "key": "Users that work as 18-24 (6 users, 24 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "6",
+          "movies": "24",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Users that work as 35-44 (35 users, 129 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "35",
+          "movies": "129",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Users that work as 25-34 (102 users, 354 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "102",
+          "movies": "354",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Users that work as 45-49 (39 users, 130 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "39",
+          "movies": "130",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        }
+      ],
+      "hypothesis": "R ≁ U",
+      "users": 4850,
+      "movies": 68,
+      "stats": "FDR: 0 | Power: 1 | Coverage: 0.9643",
+      "fdr": 0,
+      "power": 1,
+      "coverage": 0.9643
+    },
+    {
+      "key": "Users that work as 45-49 (550 users, 3260 movies)",
+      "children": [
+        {
+          "key": "Movies released in the 90's (550 users, 1084 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "550",
+          "movies": "1084",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Movies released in the 70's (182 users, 359 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "182",
+          "movies": "359",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Movies released in the 80's (307 users, 645 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "307",
+          "movies": "645",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Movies released in the 60's (151 users, 284 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "151",
+          "movies": "284",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        }
+      ],
+      "hypothesis": "μ > 2.5",
+      "users": 550,
+      "movies": 3260,
+      "stats": "FDR: 0 | Power: 1 | Coverage: 1",
+      "fdr": 0,
+      "power": 1,
+      "coverage": 1
+    },
+    {
+      "key": "Sci-Fi movies (5909 users, 269 movies)",
+      "children": [
+        {
+          "key": "Users that work as 35-44 (349 users, 1049 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "349",
+          "movies": "1049",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Users that work as 25-34 (537 users, 1597 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "537",
+          "movies": "1597",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Users that work as 45-49 (149 users, 443 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "149",
+          "movies": "443",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Users that work as 18-24 (40 users, 138 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "40",
+          "movies": "138",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        }
+      ],
+      "hypothesis": "μ > 2.5",
+      "users": 5909,
+      "movies": 269,
+      "stats": "FDR: 0 | Power: 1 | Coverage: 0.8824",
+      "fdr": 0,
+      "power": 1,
+      "coverage": 0.8824
+    },
+    {
+      "key": "Users that work as Scientist (144 users, 2501 movies)",
+      "children": [
+        {
+          "key": "Comedy movies (144 users, 814 movies)",
+          "children": [
+            {
+              "key": "Movies of Long duration (144 users, 809 movies)",
+              "children": [
+                {
+                  "key": "Movies released in the 90's (143 users, 475 movies)",
+                  "children": [
+                    {
+                      "key": "Users that work as 35-44 (24 users, 272 movies)",
+                      "children": [
+                        {
+                          "key": "Male users (21 users, 265 movies)",
+                          "children": [],
+                          "hypothesis": "R ≁ U",
+                          "users": 21,
+                          "movies": 265,
+                          "stats": "FDR: 0 | Power: 0 | Coverage: 0",
+                          "fdr": 0,
+                          "power": 0,
+                          "coverage": 0
+                        }
+                      ],
+                      "hypothesis": "μ > 2.5",
+                      "users": 24,
+                      "movies": 272,
+                      "stats": "FDR: 0 | Power: 1 | Coverage: 1",
+                      "fdr": 0,
+                      "power": 1,
+                      "coverage": 1
+                    },
+                    {
+                      "key": "Users that work as 25-34 (147 users, 284 movies)",
+                      "children": [],
+                      "hypothesis": null,
+                      "users": "147",
+                      "movies": "284",
+                      "stats": null,
+                      "fdr": null,
+                      "power": null,
+                      "coverage": null
+                    }
+                  ],
+                  "hypothesis": "R ≁ U",
+                  "users": 143,
+                  "movies": 475,
+                  "stats": "FDR: 0 | Power: 1 | Coverage: 1",
+                  "fdr": 0,
+                  "power": 1,
+                  "coverage": 1
+                },
+                {
+                  "key": "Movies released in the 70's (23 users, 40 movies)",
+                  "children": [],
+                  "hypothesis": null,
+                  "users": "23",
+                  "movies": "40",
+                  "stats": null,
+                  "fdr": null,
+                  "power": null,
+                  "coverage": null
+                },
+                {
+                  "key": "Movies released in the 60's (8 users, 18 movies)",
+                  "children": [],
+                  "hypothesis": null,
+                  "users": "8",
+                  "movies": "18",
+                  "stats": null,
+                  "fdr": null,
+                  "power": null,
+                  "coverage": null
+                },
+                {
+                  "key": "Movies released in the 80's (82 users, 180 movies)",
+                  "children": [],
+                  "hypothesis": null,
+                  "users": "82",
+                  "movies": "180",
+                  "stats": null,
+                  "fdr": null,
+                  "power": null,
+                  "coverage": null
+                }
+              ],
+              "hypothesis": "R ≁ U",
+              "users": 144,
+              "movies": 809,
+              "stats": "FDR: 0 | Power: 1 | Coverage: 1",
+              "fdr": 0,
+              "power": 1,
+              "coverage": 1
+            }
+          ],
+          "hypothesis": "R ≁ U",
+          "users": 144,
+          "movies": 814,
+          "stats": "FDR: 0 | Power: 1 | Coverage: 1",
+          "fdr": 0,
+          "power": 1,
+          "coverage": 1
+        },
+        {
+          "key": "Romance movies (147 users, 366 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "147",
+          "movies": "366",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Drama movies (446 users, 805 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "446",
+          "movies": "805",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Musical movies (38 users, 106 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "38",
+          "movies": "106",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        }
+      ],
+      "hypothesis": "σ² > 2.5",
+      "users": 144,
+      "movies": 2501,
+      "stats": "FDR: 0 | Power: 1 | Coverage: 1",
+      "fdr": 0,
+      "power": 1,
+      "coverage": 1
+    },
+    {
+      "key": "Documentary movies (2239 users, 109 movies)",
+      "children": [
+        {
+          "key": "Female users (552 users, 93 movies)",
+          "children": [
+            {
+              "key": "Users that work as Scientist (11 users, 18 movies)",
+              "children": [
+                {
+                  "key": "Movies released in the 90's (9 users, 15 movies)",
+                  "children": [
+                    {
+                      "key": "Users that work as 25-34 (4 users, 9 movies)",
+                      "children": [
+                        {
+                          "key": "Movies of Long duration (4 users, 8 movies)",
+                          "children": [],
+                          "hypothesis": "R ≁ U",
+                          "users": 4,
+                          "movies": 8,
+                          "stats": "FDR: 0 | Power: 0 | Coverage: 0",
+                          "fdr": 0,
+                          "power": 0,
+                          "coverage": 0
+                        }
+                      ],
+                      "hypothesis": "R ≁ U",
+                      "users": 4,
+                      "movies": 9,
+                      "stats": "FDR: 0 | Power: 1 | Coverage: 1",
+                      "fdr": 0,
+                      "power": 1,
+                      "coverage": 1
+                    }
+                  ],
+                  "hypothesis": "R ≁ U",
+                  "users": 9,
+                  "movies": 15,
+                  "stats": "FDR: 0 | Power: 1 | Coverage: 1",
+                  "fdr": 0,
+                  "power": 1,
+                  "coverage": 1
+                }
+              ],
+              "hypothesis": "R ≁ U",
+              "users": 11,
+              "movies": 18,
+              "stats": "FDR: 0 | Power: 1 | Coverage: 1",
+              "fdr": 0,
+              "power": 1,
+              "coverage": 1
+            }
+          ],
+          "hypothesis": "R ≁ U",
+          "users": 552,
+          "movies": 93,
+          "stats": "FDR: 0 | Power: 1 | Coverage: 0.3333",
+          "fdr": 0,
+          "power": 1,
+          "coverage": 0.3333
+        },
+        {
+          "key": "Male users (20 users, 21 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "20",
+          "movies": "21",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        }
+      ],
+      "hypothesis": "R ≁ U",
+      "users": 2239,
+      "movies": 109,
+      "stats": "FDR: 0 | Power: 1 | Coverage: 1",
+      "fdr": 0,
+      "power": 1,
+      "coverage": 1
+    },
+    {
+      "key": "Female users (1709 users, 3449 movies)",
+      "children": [
+        {
+          "key": "Users that work as Academic-educator (209 users, 2814 movies)",
+          "children": [
+            {
+              "key": "Drama movies (209 users, 1128 movies)",
+              "children": [
+                {
+                  "key": "Movies of Long duration (304 users, 633 movies)",
+                  "children": [],
+                  "hypothesis": null,
+                  "users": "304",
+                  "movies": "633",
+                  "stats": null,
+                  "fdr": null,
+                  "power": null,
+                  "coverage": null
+                }
+              ],
+              "hypothesis": "μ > 2.5",
+              "users": 209,
+              "movies": 1128,
+              "stats": "FDR: 0 | Power: 1 | Coverage: 1",
+              "fdr": 0,
+              "power": 1,
+              "coverage": 1
+            },
+            {
+              "key": "Comedy movies (341 users, 710 movies)",
+              "children": [],
+              "hypothesis": null,
+              "users": "341",
+              "movies": "710",
+              "stats": null,
+              "fdr": null,
+              "power": null,
+              "coverage": null
+            },
+            {
+              "key": "Romance movies (185 users, 467 movies)",
+              "children": [],
+              "hypothesis": null,
+              "users": "185",
+              "movies": "467",
+              "stats": null,
+              "fdr": null,
+              "power": null,
+              "coverage": null
+            },
+            {
+              "key": "Thriller movies (150 users, 399 movies)",
+              "children": [],
+              "hypothesis": null,
+              "users": "150",
+              "movies": "399",
+              "stats": null,
+              "fdr": null,
+              "power": null,
+              "coverage": null
+            }
+          ],
+          "hypothesis": "σ² > 2.5",
+          "users": 209,
+          "movies": 2814,
+          "stats": "FDR: 0 | Power: 1 | Coverage: 1",
+          "fdr": 0,
+          "power": 1,
+          "coverage": 1
+        },
+        {
+          "key": "Users that work as Writer (33 users, 68 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "33",
+          "movies": "68",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Users that work as Executive-managerial (801 users, 1686 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "801",
+          "movies": "1686",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Users that work as Homemaker (57 users, 122 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "57",
+          "movies": "122",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        }
+      ],
+      "hypothesis": "R ≁ U",
+      "users": 1709,
+      "movies": 3449,
+      "stats": "FDR: 0 | Power: 1 | Coverage: 0.6154",
+      "fdr": 0,
+      "power": 1,
+      "coverage": 0.6154
+    },
+    {
+      "key": "Movies released in the 70's (5369 users, 238 movies)",
+      "children": [
+        {
+          "key": "Western movies (22 users, 58 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "22",
+          "movies": "58",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Children's movies (161 users, 322 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "161",
+          "movies": "322",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Drama movies (6 users, 18 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "6",
+          "movies": "18",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Film-Noir movies (6 users, 18 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "6",
+          "movies": "18",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        }
+      ],
+      "hypothesis": "R ≁ U",
+      "users": 5369,
+      "movies": 238,
+      "stats": "FDR: 0 | Power: 1 | Coverage: 0.8621",
+      "fdr": 0,
+      "power": 1,
+      "coverage": 0.8621
+    },
+    {
+      "key": "Users that work as Other (711 users, 3418 movies)",
+      "children": [
+        {
+          "key": "Western movies (9 users, 24 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "9",
+          "movies": "24",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Sci-Fi movies (125 users, 412 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "125",
+          "movies": "412",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Animation movies (42 users, 134 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "42",
+          "movies": "134",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Adventure movies (187 users, 610 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "187",
+          "movies": "610",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        }
+      ],
+      "hypothesis": "R ≁ U",
+      "users": 711,
+      "movies": 3418,
+      "stats": "FDR: 0 | Power: 1 | Coverage: 1",
+      "fdr": 0,
+      "power": 1,
+      "coverage": 1
+    },
+    {
+      "key": "Documentary movies (2239 users, 109 movies)",
+      "children": [
+        {
+          "key": "Female users (552 users, 93 movies)",
+          "children": [
+            {
+              "key": "Users that work as Scientist (11 users, 18 movies)",
+              "children": [
+                {
+                  "key": "Movies released in the 90's (9 users, 15 movies)",
+                  "children": [
+                    {
+                      "key": "Users that work as 25-34 (4 users, 9 movies)",
+                      "children": [
+                        {
+                          "key": "Movies of Long duration (4 users, 8 movies)",
+                          "children": [],
+                          "hypothesis": "R ≁ U",
+                          "users": 4,
+                          "movies": 8,
+                          "stats": "FDR: 0 | Power: 0 | Coverage: 0",
+                          "fdr": 0,
+                          "power": 0,
+                          "coverage": 0
+                        }
+                      ],
+                      "hypothesis": "R ≁ U",
+                      "users": 4,
+                      "movies": 9,
+                      "stats": "FDR: 0 | Power: 1 | Coverage: 1",
+                      "fdr": 0,
+                      "power": 1,
+                      "coverage": 1
+                    }
+                  ],
+                  "hypothesis": "R ≁ U",
+                  "users": 9,
+                  "movies": 15,
+                  "stats": "FDR: 0 | Power: 1 | Coverage: 1",
+                  "fdr": 0,
+                  "power": 1,
+                  "coverage": 1
+                }
+              ],
+              "hypothesis": "R ≁ U",
+              "users": 11,
+              "movies": 18,
+              "stats": "FDR: 0 | Power: 1 | Coverage: 1",
+              "fdr": 0,
+              "power": 1,
+              "coverage": 1
+            }
+          ],
+          "hypothesis": "R ≁ U",
+          "users": 552,
+          "movies": 93,
+          "stats": "FDR: 0 | Power: 1 | Coverage: 0.3333",
+          "fdr": 0,
+          "power": 1,
+          "coverage": 0.3333
+        },
+        {
+          "key": "Male users (20 users, 21 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "20",
+          "movies": "21",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        }
+      ],
+      "hypothesis": "R ≁ U",
+      "users": 2239,
+      "movies": 109,
+      "stats": "FDR: 0 | Power: 1 | Coverage: 1",
+      "fdr": 0,
+      "power": 1,
+      "coverage": 1
+    },
+    {
+      "key": "Movies released in the 2000's (4575 users, 148 movies)",
+      "children": [
+        {
+          "key": "Comedy movies (3493 users, 67 movies)",
+          "children": [],
+          "hypothesis": "R ≁ U",
+          "users": 3493,
+          "movies": 67,
+          "stats": "FDR: 0 | Power: 0 | Coverage: 0",
+          "fdr": 0,
+          "power": 0,
+          "coverage": 0
+        },
+        {
+          "key": "Drama movies (13 users, 20 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "13",
+          "movies": "20",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        }
+      ],
+      "hypothesis": "R ≁ U",
+      "users": 4575,
+      "movies": 148,
+      "stats": "FDR: 0 | Power: 1 | Coverage: 0.8889",
+      "fdr": 0,
+      "power": 1,
+      "coverage": 0.8889
+    },
+    {
+      "key": "Users that work as Homemaker (92 users, 2184 movies)",
+      "children": [
+        {
+          "key": "Comedy movies (92 users, 818 movies)",
+          "children": [
+            {
+              "key": "Female users (89 users, 799 movies)",
+              "children": [
+                {
+                  "key": "Users that work as 25-34 (28 users, 534 movies)",
+                  "children": [
+                    {
+                      "key": "Movies released in the 80's (27 users, 120 movies)",
+                      "children": [
+                        {
+                          "key": "Movies of Long duration (27 users, 118 movies)",
+                          "children": [],
+                          "hypothesis": "R ≁ U",
+                          "users": 27,
+                          "movies": 118,
+                          "stats": "FDR: 0 | Power: 0 | Coverage: 0",
+                          "fdr": 0,
+                          "power": 0,
+                          "coverage": 0
+                        }
+                      ],
+                      "hypothesis": "R ≁ U",
+                      "users": 27,
+                      "movies": 120,
+                      "stats": "FDR: 0 | Power: 1 | Coverage: 1",
+                      "fdr": 0,
+                      "power": 1,
+                      "coverage": 1
+                    },
+                    {
+                      "key": "Movies released in the 90's (21 users, 47 movies)",
+                      "children": [],
+                      "hypothesis": null,
+                      "users": "21",
+                      "movies": "47",
+                      "stats": null,
+                      "fdr": null,
+                      "power": null,
+                      "coverage": null
+                    }
+                  ],
+                  "hypothesis": "R ≁ U",
+                  "users": 28,
+                  "movies": 534,
+                  "stats": "FDR: 0 | Power: 1 | Coverage: 1",
+                  "fdr": 0,
+                  "power": 1,
+                  "coverage": 1
+                }
+              ],
+              "hypothesis": "R ≁ U",
+              "users": 89,
+              "movies": 799,
+              "stats": "FDR: 0 | Power: 1 | Coverage: 1",
+              "fdr": 0,
+              "power": 1,
+              "coverage": 1
+            }
+          ],
+          "hypothesis": "R ≁ U",
+          "users": 92,
+          "movies": 818,
+          "stats": "FDR: 0 | Power: 1 | Coverage: 1",
+          "fdr": 0,
+          "power": 1,
+          "coverage": 1
+        },
+        {
+          "key": "Animation movies (19 users, 57 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "19",
+          "movies": "57",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Children's movies (11 users, 30 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "11",
+          "movies": "30",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Romance movies (11 users, 30 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "11",
+          "movies": "30",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        }
+      ],
+      "hypothesis": "μ > 2.5",
+      "users": 92,
+      "movies": 2184,
+      "stats": "FDR: 0 | Power: 1 | Coverage: 1",
+      "fdr": 0,
+      "power": 1,
+      "coverage": 1
+    },
+    {
+      "key": "Documentary movies (2239 users, 109 movies)",
+      "children": [
+        {
+          "key": "Male users (1687 users, 107 movies)",
+          "children": [
+            {
+              "key": "Users that work as Doctor-health care (5959 users, 7227 movies)",
+              "children": [],
+              "hypothesis": null,
+              "users": "5959",
+              "movies": "7227",
+              "stats": null,
+              "fdr": null,
+              "power": null,
+              "coverage": null
+            }
+          ],
+          "hypothesis": "R ≁ U",
+          "users": 1687,
+          "movies": 107,
+          "stats": "FDR: 0 | Power: 1 | Coverage: 0.3333",
+          "fdr": 0,
+          "power": 1,
+          "coverage": 0.3333
+        },
+        {
+          "key": "Female users (12 users, 17 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "12",
+          "movies": "17",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        }
+      ],
+      "hypothesis": "R ≁ U",
+      "users": 2239,
+      "movies": 109,
+      "stats": "FDR: 0 | Power: 1 | Coverage: 1",
+      "fdr": 0,
+      "power": 1,
+      "coverage": 1
+    },
+    {
+      "key": "Musical movies (4753 users, 112 movies)",
+      "children": [
+        {
+          "key": "Female users (125 users, 355 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "125",
+          "movies": "355",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Male users (124 users, 347 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "124",
+          "movies": "347",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        }
+      ],
+      "hypothesis": "μ > 2.5",
+      "users": 4753,
+      "movies": 112,
+      "stats": "FDR: 0 | Power: 1 | Coverage: 1",
+      "fdr": 0,
+      "power": 1,
+      "coverage": 1
+    },
+    {
+      "key": "Movies of Long duration (6040 users, 3646 movies)",
+      "children": [
+        {
+          "key": "Drama movies (6037 users, 1476 movies)",
+          "children": [
+            {
+              "key": "Users that work as Programmer (388 users, 1098 movies)",
+              "children": [
+                {
+                  "key": "Male users (58 users, 161 movies)",
+                  "children": [],
+                  "hypothesis": null,
+                  "users": "58",
+                  "movies": "161",
+                  "stats": null,
+                  "fdr": null,
+                  "power": null,
+                  "coverage": null
+                },
+                {
+                  "key": "Female users (43 users, 91 movies)",
+                  "children": [],
+                  "hypothesis": null,
+                  "users": "43",
+                  "movies": "91",
+                  "stats": null,
+                  "fdr": null,
+                  "power": null,
+                  "coverage": null
+                }
+              ],
+              "hypothesis": "R ≁ U",
+              "users": 388,
+              "movies": 1098,
+              "stats": "FDR: 0 | Power: 1 | Coverage: 1",
+              "fdr": 0,
+              "power": 1,
+              "coverage": 1
+            },
+            {
+              "key": "Users that work as Scientist (794 users, 1560 movies)",
+              "children": [],
+              "hypothesis": null,
+              "users": "794",
+              "movies": "1560",
+              "stats": null,
+              "fdr": null,
+              "power": null,
+              "coverage": null
+            },
+            {
+              "key": "Users that work as Academic-educator (223 users, 532 movies)",
+              "children": [],
+              "hypothesis": null,
+              "users": "223",
+              "movies": "532",
+              "stats": null,
+              "fdr": null,
+              "power": null,
+              "coverage": null
+            },
+            {
+              "key": "Users that work as Other (101 users, 252 movies)",
+              "children": [],
+              "hypothesis": null,
+              "users": "101",
+              "movies": "252",
+              "stats": null,
+              "fdr": null,
+              "power": null,
+              "coverage": null
+            }
+          ],
+          "hypothesis": "μ > 2.5",
+          "users": 6037,
+          "movies": 1476,
+          "stats": "FDR: 0 | Power: 1 | Coverage: 0.5714",
+          "fdr": 0,
+          "power": 1,
+          "coverage": 0.5714
+        },
+        {
+          "key": "Action movies (1660 users, 4878 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "1660",
+          "movies": "4878",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Thriller movies (980 users, 2681 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "980",
+          "movies": "2681",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Comedy movies (1821 users, 3900 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "1821",
+          "movies": "3900",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        }
+      ],
+      "hypothesis": "μ > 2.5",
+      "users": 6040,
+      "movies": 3646,
+      "stats": "FDR: 0 | Power: 1 | Coverage: 1",
+      "fdr": 0,
+      "power": 1,
+      "coverage": 1
+    },
+    {
+      "key": "Users that work as 25-34 (2096 users, 3470 movies)",
+      "children": [
+        {
+          "key": "Drama movies (995 users, 1968 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "995",
+          "movies": "1968",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Action movies (696 users, 2086 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "696",
+          "movies": "2086",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Romance movies (443 users, 1138 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "443",
+          "movies": "1138",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Thriller movies (491 users, 1326 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "491",
+          "movies": "1326",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        }
+      ],
+      "hypothesis": "μ > 2.5",
+      "users": 2096,
+      "movies": 3470,
+      "stats": "FDR: 0 | Power: 1 | Coverage: 1",
+      "fdr": 0,
+      "power": 1,
+      "coverage": 1
+    },
+    {
+      "key": "Horror movies (5297 users, 333 movies)",
+      "children": [
+        {
+          "key": "Users that work as Programmer (352 users, 268 movies)",
+          "children": [
+            {
+              "key": "Users that work as 25-34 (11 users, 27 movies)",
+              "children": [],
+              "hypothesis": null,
+              "users": "11",
+              "movies": "27",
+              "stats": null,
+              "fdr": null,
+              "power": null,
+              "coverage": null
+            }
+          ],
+          "hypothesis": "R ≁ U",
+          "users": 352,
+          "movies": 268,
+          "stats": "FDR: 0 | Power: 1 | Coverage: 1",
+          "fdr": 0,
+          "power": 1,
+          "coverage": 1
+        },
+        {
+          "key": "Users that work as Technician-engineer (108 users, 223 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "108",
+          "movies": "223",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Users that work as Academic-educator (143 users, 298 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "143",
+          "movies": "298",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Users that work as Other (16 users, 51 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "16",
+          "movies": "51",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        }
+      ],
+      "hypothesis": "R ≁ U",
+      "users": 5297,
+      "movies": 333,
+      "stats": "FDR: 0 | Power: 1 | Coverage: 0.5484",
+      "fdr": 0,
+      "power": 1,
+      "coverage": 0.5484
+    },
+    {
+      "key": "Users that work as >56 (380 users, 2895 movies)",
+      "children": [
+        {
+          "key": "Romance movies (6 users, 18 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "6",
+          "movies": "18",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Comedy movies (12 users, 22 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "12",
+          "movies": "22",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Drama movies (9 users, 18 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "9",
+          "movies": "18",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        }
+      ],
+      "hypothesis": "R ≁ U",
+      "users": 380,
+      "movies": 2895,
+      "stats": "FDR: 0 | Power: 1 | Coverage: 1",
+      "fdr": 0,
+      "power": 1,
+      "coverage": 1
+    },
+    {
+      "key": "Movies of Long duration (6040 users, 3646 movies)",
+      "children": [
+        {
+          "key": "Sci-Fi movies (1106 users, 3343 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "1106",
+          "movies": "3343",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Animation movies (202 users, 632 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "202",
+          "movies": "632",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Horror movies (435 users, 935 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "435",
+          "movies": "935",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Mystery movies (202 users, 581 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "202",
+          "movies": "581",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        }
+      ],
+      "hypothesis": "R ≁ U",
+      "users": 6040,
+      "movies": 3646,
+      "stats": "FDR: 0 | Power: 1 | Coverage: 1",
+      "fdr": 0,
+      "power": 1,
+      "coverage": 1
+    },
+    {
+      "key": "Movies released in the 80's (5923 users, 590 movies)",
+      "children": [
+        {
+          "key": "Drama movies (438 users, 1009 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "438",
+          "movies": "1009",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Documentary movies (9 users, 14 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "9",
+          "movies": "14",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Fantasy movies (87 users, 290 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "87",
+          "movies": "290",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "War movies (121 users, 433 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "121",
+          "movies": "433",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        }
+      ],
+      "hypothesis": "σ² > 2.5",
+      "users": 5923,
+      "movies": 590,
+      "stats": "FDR: 0 | Power: 1 | Coverage: 0.9706",
+      "fdr": 0,
+      "power": 1,
+      "coverage": 0.9706
+    },
+    {
+      "key": "Users that work as Retired (142 users, 2329 movies)",
+      "children": [
+        {
+          "key": "Adventure movies (138 users, 213 movies)",
+          "children": [
+            {
+              "key": "Users that work as 50-55 (19 users, 66 movies)",
+              "children": [],
+              "hypothesis": null,
+              "users": "19",
+              "movies": "66",
+              "stats": null,
+              "fdr": null,
+              "power": null,
+              "coverage": null
+            }
+          ],
+          "hypothesis": "R ≁ U",
+          "users": 138,
+          "movies": 213,
+          "stats": "FDR: 0 | Power: 1 | Coverage: 1",
+          "fdr": 0,
+          "power": 1,
+          "coverage": 1
+        },
+        {
+          "key": "Thriller movies (16 users, 46 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "16",
+          "movies": "46",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Action movies (49 users, 142 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "49",
+          "movies": "142",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Crime movies (7 users, 23 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "7",
+          "movies": "23",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        }
+      ],
+      "hypothesis": "σ² > 2.5",
+      "users": 142,
+      "movies": 2329,
+      "stats": "FDR: 0 | Power: 1 | Coverage: 1",
+      "fdr": 0,
+      "power": 1,
+      "coverage": 1
+    },
+    {
+      "key": "Movies released in the 30's (3171 users, 70 movies)",
+      "children": [
+        {
+          "key": "Users that work as Academic-educator (309 users, 56 movies)",
+          "children": [
+            {
+              "key": "Adventure movies (7 users, 25 movies)",
+              "children": [],
+              "hypothesis": null,
+              "users": "7",
+              "movies": "25",
+              "stats": null,
+              "fdr": null,
+              "power": null,
+              "coverage": null
+            },
+            {
+              "key": "Drama movies (12 users, 29 movies)",
+              "children": [],
+              "hypothesis": null,
+              "users": "12",
+              "movies": "29",
+              "stats": null,
+              "fdr": null,
+              "power": null,
+              "coverage": null
+            },
+            {
+              "key": "Comedy movies (11 users, 23 movies)",
+              "children": [],
+              "hypothesis": null,
+              "users": "11",
+              "movies": "23",
+              "stats": null,
+              "fdr": null,
+              "power": null,
+              "coverage": null
+            },
+            {
+              "key": "Children's movies (11 users, 23 movies)",
+              "children": [],
+              "hypothesis": null,
+              "users": "11",
+              "movies": "23",
+              "stats": null,
+              "fdr": null,
+              "power": null,
+              "coverage": null
+            }
+          ],
+          "hypothesis": "R ≁ U",
+          "users": 309,
+          "movies": 56,
+          "stats": "FDR: 0 | Power: 1 | Coverage: 1",
+          "fdr": 0,
+          "power": 1,
+          "coverage": 1
+        },
+        {
+          "key": "Users that work as Scientist (19 users, 35 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "19",
+          "movies": "35",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Users that work as Other (10 users, 25 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "10",
+          "movies": "25",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Users that work as Programmer (5 users, 15 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "5",
+          "movies": "15",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        }
+      ],
+      "hypothesis": "μ > 2.5",
+      "users": 3171,
+      "movies": 70,
+      "stats": "FDR: 0 | Power: 1 | Coverage: 0.5789",
+      "fdr": 0,
+      "power": 1,
+      "coverage": 0.5789
+    },
+    {
+      "key": "Film-Noir movies (4150 users, 44 movies)",
+      "children": [
+        {
+          "key": "Movies of Long duration (4150 users, 44 movies)",
+          "children": [
+            {
+              "key": "Users that work as Self-employed (11 users, 26 movies)",
+              "children": [],
+              "hypothesis": null,
+              "users": "11",
+              "movies": "26",
+              "stats": null,
+              "fdr": null,
+              "power": null,
+              "coverage": null
+            },
+            {
+              "key": "Users that work as Academic-educator (36 users, 100 movies)",
+              "children": [],
+              "hypothesis": null,
+              "users": "36",
+              "movies": "100",
+              "stats": null,
+              "fdr": null,
+              "power": null,
+              "coverage": null
+            },
+            {
+              "key": "Users that work as Sales-marketing (16 users, 42 movies)",
+              "children": [],
+              "hypothesis": null,
+              "users": "16",
+              "movies": "42",
+              "stats": null,
+              "fdr": null,
+              "power": null,
+              "coverage": null
+            },
+            {
+              "key": "Users that work as Scientist (18 users, 47 movies)",
+              "children": [],
+              "hypothesis": null,
+              "users": "18",
+              "movies": "47",
+              "stats": null,
+              "fdr": null,
+              "power": null,
+              "coverage": null
+            }
+          ],
+          "hypothesis": "μ > 2.5",
+          "users": 4150,
+          "movies": 44,
+          "stats": "FDR: 0 | Power: 1 | Coverage: 0.4167",
+          "fdr": 0,
+          "power": 1,
+          "coverage": 0.4167
+        }
+      ],
+      "hypothesis": "σ² > 2.5",
+      "users": 4150,
+      "movies": 44,
+      "stats": "FDR: 0 | Power: 1 | Coverage: 1",
+      "fdr": 0,
+      "power": 1,
+      "coverage": 1
+    },
+    {
+      "key": "Users that work as Technician-engineer (502 users, 3066 movies)",
+      "children": [
+        {
+          "key": "Romance movies (491 users, 390 movies)",
+          "children": [
+            {
+              "key": "Users that work as 25-34 (7 users, 23 movies)",
+              "children": [],
+              "hypothesis": null,
+              "users": "7",
+              "movies": "23",
+              "stats": null,
+              "fdr": null,
+              "power": null,
+              "coverage": null
+            },
+            {
+              "key": "Users that work as 35-44 (72 users, 177 movies)",
+              "children": [],
+              "hypothesis": null,
+              "users": "72",
+              "movies": "177",
+              "stats": null,
+              "fdr": null,
+              "power": null,
+              "coverage": null
+            }
+          ],
+          "hypothesis": "R ≁ U",
+          "users": 491,
+          "movies": 390,
+          "stats": "FDR: 0 | Power: 1 | Coverage: 1",
+          "fdr": 0,
+          "power": 1,
+          "coverage": 1
+        },
+        {
+          "key": "Drama movies (85 users, 230 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "85",
+          "movies": "230",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Horror movies (108 users, 223 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "108",
+          "movies": "223",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Thriller movies (108 users, 327 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "108",
+          "movies": "327",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        }
+      ],
+      "hypothesis": "R ≁ U",
+      "users": 502,
+      "movies": 3066,
+      "stats": "FDR: 0 | Power: 1 | Coverage: 1",
+      "fdr": 0,
+      "power": 1,
+      "coverage": 1
+    },
+    {
+      "key": "Movies released in the 90's (6037 users, 2126 movies)",
+      "children": [
+        {
+          "key": "Western movies (3056 users, 19 movies)",
+          "children": [
+            {
+              "key": "Movies of Long duration (3056 users, 19 movies)",
+              "children": [
+                {
+                  "key": "Male users (2334 users, 19 movies)",
+                  "children": [
+                    {
+                      "key": "Users that work as Academic-educator (10 users, 23 movies)",
+                      "children": [],
+                      "hypothesis": null,
+                      "users": "10",
+                      "movies": "23",
+                      "stats": null,
+                      "fdr": null,
+                      "power": null,
+                      "coverage": null
+                    }
+                  ],
+                  "hypothesis": "R ≁ U",
+                  "users": 2334,
+                  "movies": 19,
+                  "stats": "FDR: 0 | Power: 1 | Coverage: 0.2",
+                  "fdr": 0,
+                  "power": 1,
+                  "coverage": 0.2
+                },
+                {
+                  "key": "Female users (15 users, 39 movies)",
+                  "children": [],
+                  "hypothesis": null,
+                  "users": "15",
+                  "movies": "39",
+                  "stats": null,
+                  "fdr": null,
+                  "power": null,
+                  "coverage": null
+                }
+              ],
+              "hypothesis": "R ≁ U",
+              "users": 3056,
+              "movies": 19,
+              "stats": "FDR: 0 | Power: 1 | Coverage: 1",
+              "fdr": 0,
+              "power": 1,
+              "coverage": 1
+            }
+          ],
+          "hypothesis": "R ≁ U",
+          "users": 3056,
+          "movies": 19,
+          "stats": "FDR: 0 | Power: 1 | Coverage: 1",
+          "fdr": 0,
+          "power": 1,
+          "coverage": 1
+        },
+        {
+          "key": "Comedy movies (978 users, 2128 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "978",
+          "movies": "2128",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Mystery movies (107 users, 328 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "107",
+          "movies": "328",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Children's movies (107 users, 328 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "107",
+          "movies": "328",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        }
+      ],
+      "hypothesis": "R ≁ U",
+      "users": 6037,
+      "movies": 2126,
+      "stats": "FDR: 0 | Power: 1 | Coverage: 1",
+      "fdr": 0,
+      "power": 1,
+      "coverage": 1
+    },
+    {
+      "key": "Users that work as 45-49 (550 users, 3260 movies)",
+      "children": [
+        {
+          "key": "Drama movies (611 users, 1156 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "611",
+          "movies": "1156",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Comedy movies (560 users, 1153 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "560",
+          "movies": "1153",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Thriller movies (211 users, 549 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "211",
+          "movies": "549",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Romance movies (267 users, 673 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "267",
+          "movies": "673",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        }
+      ],
+      "hypothesis": "μ > 2.5",
+      "users": 550,
+      "movies": 3260,
+      "stats": "FDR: 0 | Power: 1 | Coverage: 1",
+      "fdr": 0,
+      "power": 1,
+      "coverage": 1
+    },
+    {
+      "key": "Users that work as Academic-educator (528 users, 3191 movies)",
+      "children": [
+        {
+          "key": "Drama movies (795 users, 1561 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "795",
+          "movies": "1561",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Romance movies (401 users, 1006 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "401",
+          "movies": "1006",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Comedy movies (760 users, 1585 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "760",
+          "movies": "1585",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Thriller movies (311 users, 847 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "311",
+          "movies": "847",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        }
+      ],
+      "hypothesis": "μ > 2.5",
+      "users": 528,
+      "movies": 3191,
+      "stats": "FDR: 0 | Power: 1 | Coverage: 1",
+      "fdr": 0,
+      "power": 1,
+      "coverage": 1
+    },
+    {
+      "key": "Animation movies (4787 users, 100 movies)",
+      "children": [
+        {
+          "key": "Users that work as 25-34 (110 users, 335 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "110",
+          "movies": "335",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Users that work as 45-49 (56 users, 171 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "56",
+          "movies": "171",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        },
+        {
+          "key": "Users that work as 35-44 (19 users, 63 movies)",
+          "children": [],
+          "hypothesis": null,
+          "users": "19",
+          "movies": "63",
+          "stats": null,
+          "fdr": null,
+          "power": null,
+          "coverage": null
+        }
+      ],
+      "hypothesis": "μ > 2.5",
+      "users": 4787,
+      "movies": 100,
+      "stats": "FDR: 0 | Power: 1 | Coverage: 0.8333",
+      "fdr": 0,
+      "power": 1,
+      "coverage": 0.8333
+    }
+  ],
+  "hypothesis": null,
+  "users": 6040,
+  "movies": 3952,
+  "stats": null,
+  "fdr": null,
+  "power": null,
+  "coverage": null
+}
