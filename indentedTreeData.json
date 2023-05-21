@@ -8,7 +8,7 @@
           "key": "Horror movies (127 users, 198 movies)",
           "children": [
             {
-              "key": "Users that work as 25-34 (65 users, 180 movies)",
+              "key": "Users of the age 25-34 (65 users, 180 movies)",
               "children": [
                 {
                   "key": "Female users (13 users, 92 movies)",
@@ -77,7 +77,7 @@
               "coverage": 1
             },
             {
-              "key": "Users that work as 35-44 (18 users, 41 movies)",
+              "key": "Users of the age 35-44 (18 users, 41 movies)",
               "children": [],
               "hypothesis": null,
               "users": "18",
@@ -267,7 +267,7 @@
       "key": "Movies of Short duration (1610 users, 19 movies)",
       "children": [
         {
-          "key": "Users that work as <18 (66 users, 9 movies)",
+          "key": "Users under the age of 18 (66 users, 9 movies)",
           "children": [
             {
               "key": "Users that work as Other (3 users, 7 movies)",
@@ -290,7 +290,7 @@
           "coverage": 1
         },
         {
-          "key": "Users that work as 25-34 (7 users, 15 movies)",
+          "key": "Users of the age 25-34 (7 users, 15 movies)",
           "children": [],
           "hypothesis": null,
           "users": "7",
@@ -342,7 +342,7 @@
               "key": "Female users (78 users, 1098 movies)",
               "children": [
                 {
-                  "key": "Users that work as 25-34 (19 users, 862 movies)",
+                  "key": "Users of the age 25-34 (19 users, 862 movies)",
                   "children": [
                     {
                       "key": "Movies released in the 90's (19 users, 528 movies)",
@@ -407,7 +407,7 @@
       "key": "Fantasy movies (4850 users, 68 movies)",
       "children": [
         {
-          "key": "Users that work as 18-24 (6 users, 24 movies)",
+          "key": "Users of the age 18-24 (6 users, 24 movies)",
           "children": [],
           "hypothesis": null,
           "users": "6",
@@ -418,7 +418,7 @@
           "coverage": null
         },
         {
-          "key": "Users that work as 35-44 (35 users, 129 movies)",
+          "key": "Users of the age 35-44 (35 users, 129 movies)",
           "children": [],
           "hypothesis": null,
           "users": "35",
@@ -429,7 +429,7 @@
           "coverage": null
         },
         {
-          "key": "Users that work as 25-34 (102 users, 354 movies)",
+          "key": "Users of the age 25-34 (102 users, 354 movies)",
           "children": [],
           "hypothesis": null,
           "users": "102",
@@ -440,7 +440,7 @@
           "coverage": null
         },
         {
-          "key": "Users that work as 45-49 (39 users, 130 movies)",
+          "key": "Users of the age 45-49 (39 users, 130 movies)",
           "children": [],
           "hypothesis": null,
           "users": "39",
@@ -460,7 +460,7 @@
       "coverage": 0.9643
     },
     {
-      "key": "Users that work as 45-49 (550 users, 3260 movies)",
+      "key": "Users of the age 45-49 (550 users, 3260 movies)",
       "children": [
         {
           "key": "Movies released in the 90's (550 users, 1084 movies)",
@@ -519,7 +519,7 @@
       "key": "Sci-Fi movies (5909 users, 269 movies)",
       "children": [
         {
-          "key": "Users that work as 35-44 (349 users, 1049 movies)",
+          "key": "Users of the age 35-44 (349 users, 1049 movies)",
           "children": [],
           "hypothesis": null,
           "users": "349",
@@ -530,7 +530,7 @@
           "coverage": null
         },
         {
-          "key": "Users that work as 25-34 (537 users, 1597 movies)",
+          "key": "Users of the age 25-34 (537 users, 1597 movies)",
           "children": [],
           "hypothesis": null,
           "users": "537",
@@ -541,7 +541,7 @@
           "coverage": null
         },
         {
-          "key": "Users that work as 45-49 (149 users, 443 movies)",
+          "key": "Users of the age 45-49 (149 users, 443 movies)",
           "children": [],
           "hypothesis": null,
           "users": "149",
@@ -552,7 +552,7 @@
           "coverage": null
         },
         {
-          "key": "Users that work as 18-24 (40 users, 138 movies)",
+          "key": "Users of the age 18-24 (40 users, 138 movies)",
           "children": [],
           "hypothesis": null,
           "users": "40",
@@ -584,7 +584,7 @@
                   "key": "Movies released in the 90's (143 users, 475 movies)",
                   "children": [
                     {
-                      "key": "Users that work as 35-44 (24 users, 272 movies)",
+                      "key": "Users of the age 35-44 (24 users, 272 movies)",
                       "children": [
                         {
                           "key": "Male users (21 users, 265 movies)",
@@ -607,7 +607,7 @@
                       "coverage": 1
                     },
                     {
-                      "key": "Users that work as 25-34 (147 users, 284 movies)",
+                      "key": "Users of the age 25-34 (147 users, 284 movies)",
                       "children": [],
                       "hypothesis": null,
                       "users": "147",
@@ -732,7 +732,7 @@
                   "key": "Movies released in the 90's (9 users, 15 movies)",
                   "children": [
                     {
-                      "key": "Users that work as 25-34 (4 users, 9 movies)",
+                      "key": "Users of the age 25-34 (4 users, 9 movies)",
                       "children": [
                         {
                           "key": "Movies of Long duration (4 users, 8 movies)",
@@ -1039,7 +1039,7 @@
                   "key": "Movies released in the 90's (9 users, 15 movies)",
                   "children": [
                     {
-                      "key": "Users that work as 25-34 (4 users, 9 movies)",
+                      "key": "Users of the age 25-34 (4 users, 9 movies)",
                       "children": [
                         {
                           "key": "Movies of Long duration (4 users, 8 movies)",
@@ -1152,7 +1152,7 @@
               "key": "Female users (89 users, 799 movies)",
               "children": [
                 {
-                  "key": "Users that work as 25-34 (28 users, 534 movies)",
+                  "key": "Users of the age 25-34 (28 users, 534 movies)",
                   "children": [
                     {
                       "key": "Movies released in the 80's (27 users, 120 movies)",
@@ -1462,7 +1462,7 @@
       "coverage": 1
     },
     {
-      "key": "Users that work as 25-34 (2096 users, 3470 movies)",
+      "key": "Users of the age 25-34 (2096 users, 3470 movies)",
       "children": [
         {
           "key": "Drama movies (995 users, 1968 movies)",
@@ -1524,7 +1524,7 @@
           "key": "Users that work as Programmer (352 users, 268 movies)",
           "children": [
             {
-              "key": "Users that work as 25-34 (11 users, 27 movies)",
+              "key": "Users of the age 25-34 (11 users, 27 movies)",
               "children": [],
               "hypothesis": null,
               "users": "11",
@@ -1586,7 +1586,7 @@
       "coverage": 0.5484
     },
     {
-      "key": "Users that work as >56 (380 users, 2895 movies)",
+      "key": "Users above the age of 56 (380 users, 2895 movies)",
       "children": [
         {
           "key": "Romance movies (6 users, 18 movies)",
@@ -1749,7 +1749,7 @@
           "key": "Adventure movies (138 users, 213 movies)",
           "children": [
             {
-              "key": "Users that work as 50-55 (19 users, 66 movies)",
+              "key": "Users of the age 50-55 (19 users, 66 movies)",
               "children": [],
               "hypothesis": null,
               "users": "19",
@@ -1986,7 +1986,7 @@
           "key": "Romance movies (491 users, 390 movies)",
           "children": [
             {
-              "key": "Users that work as 25-34 (7 users, 23 movies)",
+              "key": "Users of the age 25-34 (7 users, 23 movies)",
               "children": [],
               "hypothesis": null,
               "users": "7",
@@ -1997,7 +1997,7 @@
               "coverage": null
             },
             {
-              "key": "Users that work as 35-44 (72 users, 177 movies)",
+              "key": "Users of the age 35-44 (72 users, 177 movies)",
               "children": [],
               "hypothesis": null,
               "users": "72",
@@ -2162,7 +2162,7 @@
       "coverage": 1
     },
     {
-      "key": "Users that work as 45-49 (550 users, 3260 movies)",
+      "key": "Users of the age 45-49 (550 users, 3260 movies)",
       "children": [
         {
           "key": "Drama movies (611 users, 1156 movies)",
@@ -2277,7 +2277,7 @@
       "key": "Animation movies (4787 users, 100 movies)",
       "children": [
         {
-          "key": "Users that work as 25-34 (110 users, 335 movies)",
+          "key": "Users of the age 25-34 (110 users, 335 movies)",
           "children": [],
           "hypothesis": null,
           "users": "110",
@@ -2288,7 +2288,7 @@
           "coverage": null
         },
         {
-          "key": "Users that work as 45-49 (56 users, 171 movies)",
+          "key": "Users of the age 45-49 (56 users, 171 movies)",
           "children": [],
           "hypothesis": null,
           "users": "56",
@@ -2299,7 +2299,7 @@
           "coverage": null
         },
         {
-          "key": "Users that work as 35-44 (19 users, 63 movies)",
+          "key": "Users of the age 35-44 (19 users, 63 movies)",
           "children": [],
           "hypothesis": null,
           "users": "19",
